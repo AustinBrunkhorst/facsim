@@ -1,0 +1,32 @@
+{
+  "name": "facsim",
+  "version": "0.0.1",
+  "description": "Facsimile - low poly home assistant simulator frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/AustinBrunkhorst/facsim.git",
+  "keywords": [
+    "3d",
+    "facsim",
+    "facsimilie",
+    "homeassistant",
+    "home-automation",
+    "threejs",
+    "redux",
+    "react",
+    "creat-react-app-typescript",
+    "simulator"
+  ],
+  "author": "Austin Brunkhorst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AustinBrunkhorst/facsim/issues"
+  },
+  "homepage": "https://facsim.house",
+  "devDependencies": {
+    "lerna": "^3.15.0"
+  },
+  "private": true
+}

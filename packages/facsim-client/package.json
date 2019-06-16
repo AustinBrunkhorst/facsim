@@ -1,0 +1,9 @@
+{
+  "name": "facsim-client",
+  "version": "0.0.1",
+  "description": "Frontend client for facsim",
+  "main": "index.js",
+  "repository": "https://github.com/AustinBrunkhorst/facsim",
+  "author": "Austin Brunkhorst",
+  "license": "MIT"
+}

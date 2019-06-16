@@ -1,0 +1,9 @@
+{
+  "name": "facsim-server",
+  "version": "0.0.1",
+  "description": "Server that hosts facsim-api and facsim-client",
+  "main": "index.js",
+  "repository": "https://github.com/AustinBrunkhorst/facsim",
+  "author": "Austin Brunkhorst",
+  "license": "MIT"
+}
